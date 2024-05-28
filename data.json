@@ -1,0 +1,90 @@
+{
+    "Math": {
+        "100": {
+            "question": "What is the product of 7 and 8?",
+            "answer": "56"
+        },
+        "200": {
+            "question": "If a rectangle has a length of 10 units and a width of 5 units, what is its area?",
+            "answer": "50 square units"
+        },
+        "300": {
+            "question": "Solve the equation for x: 2x+5=17.",
+            "answer": "6"
+        },
+        "400": {
+            "question": "What is Manoj's favorite number?",
+            "answer": "7"
+        },
+        "500": {
+            "question": "if a = (b/4)^2, b = 3-z, z = 7, what is a?",
+            "answer": "1"
+        }
+    },
+    "Science": {
+        "100": {
+            "question": "What is the chemical symbol for gold?",
+            "answer": "Au"
+        },
+        "200": {
+            "question": "In physics, what is the SI unit of force?",
+            "answer": "N(Newton)"
+        },
+        "300": {
+            "question": "Formula for acceleration?",
+            "answer": "a = ∆v/∆t"
+        },
+        "400": {
+            "question": "Formula & unit for work",
+            "answer": "w = F(∆x) & J"
+        },
+        "500": {
+            "question": "Given that Chuck Norris can divide by zero, and that the basket has 0 eggs, what is the distance from the earth to the sun?",
+            "answer": "147,690,167 kilometers"
+        }
+    },
+    "History": {
+        "100": {
+            "question": "Who was the first president of the US?",
+            "answer": "George Washington"
+        },
+        "200": {
+            "question": "Name the first 5 US presidents in order",
+            "answer": "George Washington, John Adams, Thomas Jefferson, James Madison, James Monroe"
+        },
+        "300": {
+            "question": "Who was president during louisianna purchase?",
+            "answer": "Thomas Jefferson"
+        },
+        "400": {
+            "question": "Which president fought in battle of new orlean?",
+            "answer": "Andrew Jackson"
+        },
+        "500": {
+            "question": "Name the first 10 presidents in order:",
+            "answer": "George Washington, John Adams, Thomas Jefferson, James Madison, James Monroe, John Quincy Adams, Andrew Jackson, Martin Van Buren, William Henry Harrison, John Tyler"
+        }
+    },
+    "Random": {
+        "100": {
+            "question": "What is my Name?",
+            "answer": "Manoj Kumar"
+        },
+        "200": {
+            "question": "Who are the 2 people most likely to get a 1600 on the SAT?",
+            "answer": "Abhijay & Rithvik"
+        },
+        "300": {
+            "question": "reveal one fact about you",
+            "answer": "..."
+        },
+        "400": {
+            "question": "2 truths, 1 lie. If i guess the lie correctly, you lose.",
+            "answer": "..."
+        },
+        "500": {
+            "question": "reveal one little known fact about you",
+            "answer": "..."
+        }
+    }
+}
